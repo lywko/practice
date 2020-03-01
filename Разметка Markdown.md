@@ -1,4 +1,5 @@
 <h2> <p align="center">  Выпускники нашей кафедры </h2> </p>
+
 ![Куцов Михаил](https://ict.herzen.spb.ru/user/themes/bootstrap/images/grad/Kuzov.png)
 
 <h3><p align="center">  Куцов Михаил</p></h3>
