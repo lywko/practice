@@ -1,12 +1,12 @@
 <h2> <p align="center">  Выпускники нашей кафедры </h2> </p>
 
-![Куцов Михаил](https://ict.herzen.spb.ru/user/themes/bootstrap/images/grad/Kuzov.png)
+<p align="center"> <img alt="Куцов Михаил" src ="https://ict.herzen.spb.ru/user/themes/bootstrap/images/grad/Kuzov.png" width="200"></p>
 
 <h3><p align="center">  Куцов Михаил</p></h3>
 
 *“Сейчас я UX/UI дизайнер, идейный вдохновитель и моральный иисус приложения thinkorswom, принадлежащего TD Ameritrade, в компании Devexperts, занимающейся разработкой платформ для биржевой торговли.”*
 
-![Огурцов Дмитрий](https://ict.herzen.spb.ru/user/themes/bootstrap/images/grad/Ogurzov.png)
+<p align="center"> <img alt="Огурцов Дмитрий" src ="https://ict.herzen.spb.ru/user/themes/bootstrap/images/grad/Ogurzov.png" width="200"></p>
 
 <h3><p align="center">  Огурцов Дмитрий</p></h3>
 
@@ -41,8 +41,7 @@
 <p align='center'><em>04.2006 - 08.2006, <a href=http://key.ru>ООО "Кей"</a> 
 <p align='center'>Должность: Помощник кладовщика </em></p>
 
-![Тимофеев Павел](https://ict.herzen.spb.ru/user/themes/bootstrap/images/grad/Timofeev.png)
-
+<p align="center"> <img alt="Тимофеев Павел" src ="https://ict.herzen.spb.ru/user/themes/bootstrap/images/grad/Timofeev.png" width="200"></p>
 
 <h3><p align="center">  Тимофеев Павел </p></h3>
 
@@ -50,8 +49,7 @@
 По окончании Университета, устроился в компанию «Umasoft», где принимал участие в разработке экспертных систем для медицинских учреждений. В мои обязанности входила реализация клиентской части приложения с использованием технологии Adobe Flex.  
 В мае 2012 года устроился в «Центр Речевых Технологий» на должность Junior Java Developer. Компания занимается комплексной разработкой биометрических систем (начиная с аппаратной и заканчивая программной частями). За 2 года работы в компании, я успел принять участие во множестве интересных проектов и набраться опыта. В данный момент я работаю на должности Middle Java Developer, в мои обязанности входит разработка front-end части приложения на HTML, CSS и JavaScript, а так же создание back-end части на Java."*
 
-![Александра Сысоева](https://ict.herzen.spb.ru/user/themes/bootstrap/images/grad/alex.s.png)
-
+<p align="center"> <img alt="Александра Сысоева" src ="https://ict.herzen.spb.ru/user/themes/bootstrap/images/grad/alex.s.png" width="200"></p>
 
 <h3><p align="center">  Александра Сысоева</p></h3>
 <em>Аспирант РГПУ им. А.И. Герцена. Профиль: теория и методика обучения и воспитания (информатика). Имеет 3 статьи РИНЦ и 1 ВАК.</em>
